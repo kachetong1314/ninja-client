@@ -1,0 +1,7 @@
+{
+  "__ninja_root_alg": "aes-gcm-pbkdf2-v1",
+  "iter": 120000,
+  "salt": "Uie4qRP59LafXmGFUcXroA==",
+  "iv": "iNweSNj+Bc6e03I+",
+  "ct": "WNacMkdfn/ZuQNO9KAvylZhu51h7UkgjxCARd8GzwUR1Kf/Sa9i8SwtAatSAvbP5TMbaHORtYI4AMTzgDPKwj90N7nw5WW/Vu1ycMPK8YujMSNe/kM6wUuVKPfqx3adSi5glQpsvNmODNVpKJyKaqAyW8edZ7Kn+PIzwLCiaLPueqRzatG4Tuc7L/Z0gW5gHnLMhMSsRtCXkoDu8S7l32o8/RF9viC7/pA80/Rk502FPFJ28+N3Cqu+B8xZSzOAASo4jsSulj1Zeelh+BSYuQ5gchZ5LqpKVDJu6MwFiuTDof8t8RylE"
+}
