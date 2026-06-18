@@ -3,7 +3,6 @@
 全新0.1.10版本Ninja客户端已上线
 下载地址：[项目Release](https://github.com/kachetong1314/ninja-client/releases/tag/0.1.10)
 
----
 
 ## Ninja Desktop
 
@@ -15,7 +14,6 @@
 * macOS [M系列芯片版本](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-0.1.10-mac-arm64.dmg) [Intel处理器版本](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-0.1.10-mac-x64.dmg) [macOS提示软件无法打开教程](https://zhuanlan.zhihu.com/p/1890420187129435031)
 * Linux [X86](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-0.1.10-linux-amd64.deb) [ARM](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-0.1.10-linux-arm64.deb)
 
----
 
 ### Lite版本
 
@@ -26,14 +24,12 @@
 * Linux [X86](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/ninjadesktop-lite_0.1.10_amd64.deb) [ARM](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/ninjadesktop-lite_0.1.10_arm64.deb)
 * macOS [M系列芯片版本](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-Lite-0.1.10-darwin-arm64.dmg) [Intel处理器版本](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaDesktop-Lite-0.1.10-darwin-x64.dmg)
 
----
 
 ## Ninja Android
 
 * [手机版](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaClient-3.0.4.apk)
 * 电视版 [64位](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaTV-v3.0.4-arm64.apk) [32位](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaTV-v3.0.4-armeabi-v7a.apk)
 
----
 
 ## Ninja路由器
 
@@ -41,7 +37,6 @@
 
 IPK格式 [X86](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaRouter_0.1.10_x86_64.ipk) [ARM64](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaRouter_0.1.10_all-aarch64.ipk) [ARMv7](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaRouter_0.1.10_all-armv7.ipk)
 
----
 
 ### Ninja Gateway
 
