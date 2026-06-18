@@ -47,3 +47,10 @@ IPK格式 [X86](https://github.com/kachetong1314/ninja-client/releases/download/
 
 Ninja Gateway让你的电脑直接作为局域网代理网关
 [Windows版本](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/NinjaGateway-0.1.10-windows-x64-setup.exe)
+
+---
+
+## Clash V-Ninja 2.4.0订阅版本
+本版本为Ninja内核版，仅支持Ninja订阅。
+* [Windows](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/Clash.V-Ninja_2.4.0_x64-setup.exe)
+* macOS [M系列芯片](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/Clash.V-Ninja_2.4.0_aarch64.dmg) [Intel芯片](https://github.com/kachetong1314/ninja-client/releases/download/0.1.10/Clash.V-Ninja_2.4.0_x64.dmg)
